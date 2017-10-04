@@ -1,1 +1,2 @@
 # SampleNavigationController
+Highlights bug of [Material](https://github.com/CosmicMind/Material) [NavigationController: hidesBottomBarWhenPushed with isMotionEnabled introduces bug with iOS 11](https://github.com/CosmicMind/Material/issues/893)
